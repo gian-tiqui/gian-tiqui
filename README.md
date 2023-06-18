@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Android, React, Laravel**
+- 💬 Ask me about **Android and React**
 
 - 📫 How to reach me **michaelgiantiqui3@gmail.com**
 
