@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gian</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate developer from Philippines</h3>
 <img align="right" alt="Coding" width="352" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/97f8c592-d092-4f7f-8c2c-81ef6a8cca0e/dfrx5e0-89e454a5-3ab2-42d3-8491-92c5056ff68e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk3ZjhjNTkyLWQwOTItNGY3Zi04YzJjLTgxZWY2YThjY2EwZVwvZGZyeDVlMC04OWU0NTRhNS0zYWIyLTQyZDMtODQ5MS05MmM1MDU2ZmY2OGUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MTpHbXD30mFWKxVkwwGYm9AFQ645lJ6Ok1NOoGsIptM">
 
 - 🌱 I’m currently learning **Android Development**
