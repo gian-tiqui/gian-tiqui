@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Event Check-in Pro](https://github.com/gian-tiqui/Facial-Recognition)
 
-- 🌱 I’m currently learning **Android Development, Spring, React, PostgreSQL**
+- 🌱 I’m currently learning **Android Development, Spring, MERN, PostgreSQL**
 
 - 🤝 I’m looking for help with [Event Check-in Pro](https://github.com/gian-tiqui/Facial-Recognition)
 
