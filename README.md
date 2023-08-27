@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **michaelgiantiqui3@gmail.com**
 
-- ⚡ Fun fact **I like playing Genshin Impact, Honkai: Star Rail, Farlight 84, and Valorant**
+- ⚡ Fun fact **I like playing Genshin Impact, Honkai: Star Rail, and Valorant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
