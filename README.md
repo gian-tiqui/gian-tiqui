@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gian-tiqui](https://github.com/gian-tiqui)
 
-- 💬 Ask me about **React and Android**
-
 - 📫 How to reach me **michaelgiantiqui3@gmail.com**
 
 - ⚡ Fun fact **I like playing Genshin Impact, Honkai: Star Rail, Farlight 84, and Valorant**
