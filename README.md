@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **michaelgiantiqui3@gmail.com**
 
-- ⚡ Fun fact **I like playing Genshin Impact and Honkai: Star Rail**
+- ⚡ Fun fact **I like Honkai: Star Rail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
