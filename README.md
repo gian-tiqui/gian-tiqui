@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gian</h1>
-<h3 align="center">Aspiring Software Engineer from Philippines</h3>
+<h3 align="center">An Aspiring Software Engineer from Philippines</h3>
 
 - 🔭 I’m currently working on [Event Check-in Pro](https://github.com/gian-tiqui/Facial-Recognition)
 
