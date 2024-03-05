@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Event Check-in Pro](https://github.com/gian-tiqui/Facial-Recognition)
 
-- 🌱 I’m currently learning **React-Native, NextJS, Typescript, NestJS**
+- 🌱 I’m currently learning **React, React-Native, Typescript, NestJS**
 
 - 🤝 I’m looking for help with [Event Check-in Pro](https://github.com/gian-tiqui/Facial-Recognition)
 
