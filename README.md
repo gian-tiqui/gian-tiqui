@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [tanauan](https://github.com/gian-tiqui/tanauan)
 
-- 🌱 I’m currently learning **React, React-Native, Typescript, NestJS**
+- 🌱 I’m currently learning **React, React-Native, Typescript, and Laravel**
 
 - 🤝 I’m looking for help with [Event Check-in Pro](https://github.com/gian-tiqui/Facial-Recognition)
 
