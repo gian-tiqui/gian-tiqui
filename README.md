@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gian</h1>
 <h3 align="center">An Aspiring Software Engineer from Philippines</h3>
 
-- 🔭 I’m currently working on [Event Check-in Pro](https://github.com/gian-tiqui/Facial-Recognition)
+- 🔭 I’m currently working on [tanauan](https://github.com/gian-tiqui/tanauan)
 
 - 🌱 I’m currently learning **React, React-Native, Typescript, NestJS**
 
