@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [tanauan](https://github.com/gian-tiqui/tanauan)
 
-- 🌱 I’m currently learning **Spring Boot, React-Native, .NET, and Laravel**
+- 🌱 I’m currently learning **NextJs, React-Native, and Laravel**
 
 - 🤝 I’m looking for help with [Event Check-in Pro](https://github.com/gian-tiqui/Facial-Recognition)
 
