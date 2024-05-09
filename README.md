@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [tanauan](https://github.com/gian-tiqui/tanauan)
 
-- 🌱 I’m currently learning **ASP.Net, React-Native, and Spring boot**
+- 🌱 I’m currently learning **Angular, React-Native, and Spring boot**
 
 - 🤝 I’m looking for help with [Event Check-in Pro](https://github.com/gian-tiqui/Facial-Recognition)
 
