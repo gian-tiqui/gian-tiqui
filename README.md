@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gian</h1>
 <h3 align="center">An Aspiring Software Engineer from Philippines</h3>
 
-- 🔭 I’m currently working on [tanauan](https://github.com/gian-tiqui/tanauan)
+- 🔭 I’m currently working on [chat-app](https://github.com/gian-tiqui/recruitment-chat-api)
 
-- 🌱 I’m currently learning **Angular, React-Native, and Spring boot**
-
-- 🤝 I’m looking for help with [Event Check-in Pro](https://github.com/gian-tiqui/Facial-Recognition)
+- 🌱 I’m currently learning **Angular and React-native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gian-tiqui](https://github.com/gian-tiqui)
 
