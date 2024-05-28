@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [chat-app](https://github.com/gian-tiqui/chat-app-api)
 
-- 🌱 I’m currently learning **Spring Boot and React-native**
+- 🌱 I’m currently learning **Spring Boot, Web Socket and React-native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gian-tiqui](https://github.com/gian-tiqui)
 
