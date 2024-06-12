@@ -9,7 +9,7 @@
 
 - 🌐 **[Portfolio](https://michael-gian-tiqui.vercel.app/)**
 
-- ⚡ Fun fact **I like Honkai: Star Rail**
+- ⚡ Fun fact **I like playing Wuthering Waves**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
