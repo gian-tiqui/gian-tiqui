@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gian-tiqui](https://github.com/gian-tiqui)
 
-- 🌐 **[Portfolio](https://michael-gian-tiqui.vercel.app/)**
+- 🌐 Check my **[Portfolio](https://michael-gian-tiqui.vercel.app/)**
 
 - ⚡ Fun fact **I like playing Wuthering Waves**
 
