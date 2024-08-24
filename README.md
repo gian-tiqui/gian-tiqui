@@ -7,7 +7,7 @@
 
 - 🌐 Check my **[Portfolio](https://michael-gian-tiqui.vercel.app/)**
 
-- ⚡ Fun fact **I like playing Basketball and Valorant**
+- ⚡ Fun fact **I like going to the gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
