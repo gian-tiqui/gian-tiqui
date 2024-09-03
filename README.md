@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gian</h1>
-<h3 align="center">An Aspiring Software Engineer from Philippines</h3>
 
-- 🌱 I’m currently learning **Vue and Docker**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gian-tiqui](https://github.com/gian-tiqui)
 
