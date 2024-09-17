@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Gian Tiqui</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gian-tiqui" alt="gian-tiqui" /></a> </p>
-
 - 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gian-tiqui?tab=repositories](https://github.com/gian-tiqui?tab=repositories)
