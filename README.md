@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Gian Tiqui</h1>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **NestJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gian-tiqui?tab=repositories](https://github.com/gian-tiqui?tab=repositories)
 
