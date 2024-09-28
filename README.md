@@ -14,9 +14,9 @@
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=gian-tiqui&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Michel's current streak](https://streak-stats.demolab.com/?user=gian-tiqui&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Gian's current streak](https://streak-stats.demolab.com/?user=gian-tiqui&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Michel's current profile trophy](https://github-profile-trophy.vercel.app/?username=gian-tiqui)](#)
+[![Gian's current profile trophy](https://github-profile-trophy.vercel.app/?username=gian-tiqui)](#)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/gian-tiqui/gian-tiqui/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
