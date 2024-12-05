@@ -18,5 +18,4 @@
 
 [![Gian's current profile trophy](https://github-profile-trophy.vercel.app/?username=gian-tiqui)](#)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/gian-tiqui/gian-tiqui/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
