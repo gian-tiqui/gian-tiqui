@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Gian Tiqui</h1>
 
-- 🌱 I’m currently learning **A**
+- 🌱 I’m currently learning **PrimeReact, ShadCN**
 
 - 📫 How to reach me **gian.tiqui.dev@gmail.com**
 
